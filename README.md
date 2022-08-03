@@ -1,2 +1,2 @@
 # Svelte-Practice-2
-Created with CodeSandbox
+svelte:component practice
